@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="8.0.0"/>
+	<deviceVariant value="Cortex M.TM4C1294NCPDT"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="18.1.1.LTS"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/Stellaris_ICDI_Connection.xml"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<templateProperties value="id=getting_started_with_wlan_station.projectspec.getting_started_with_wlan_station,buildProfile=debug,"/>
+	<origin value="D:\ti\CC3100SDK_1.3.0\cc3100-sdk\platform\tiva-c-connected-launchpad\example_project_ccs\getting_started_with_wlan_station\getting_started_with_wlan_station.projectspec"/>
+	<filesToOpen value=""/>
+	<isTargetManual value="false"/>
+</projectOptions>

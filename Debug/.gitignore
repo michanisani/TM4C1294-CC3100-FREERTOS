@@ -1,0 +1,9 @@
+/board/
+/cli_uart/
+/simplelink/
+/spi/
+/timer/
+/FreeRTOS/
+/driverlib/
+/drivers/
+/utils/
